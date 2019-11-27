@@ -1,0 +1,44 @@
+body {
+    background-color:floralwhite;
+        
+    font-family: sans-serif;
+        
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h2 {
+    font-style: italic;
+    
+}
+
+h3, h4 {
+    display:inline;
+}
+
+h4 {
+    margin-left: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+
+img {
+    border: 5px red solid;
+}
+table tr td p {
+    font-weight: bolder;
+    color:darkgreen;
+}
+table tr td p2 {
+    font-weight: 1000;
+    color:darkmagenta;
+}
